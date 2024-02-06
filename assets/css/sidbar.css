@@ -1,0 +1,19 @@
+.sidebar {
+  width: 171px;
+  border-right: 1px solid var(--border-color);
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: 50px 20px;
+  padding-top: 50px;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
+.sidebar * {
+  text-align: center;
+}
+.sidbar-social.medium {
+  display: flex;
+  gap: 20px;
+}

@@ -1,0 +1,16 @@
+.block {
+    width: 200px;
+    height: 100px;
+    margin-top: 40px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    position: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+  }
+  .main{
+    display: flex;
+  }
