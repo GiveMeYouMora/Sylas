@@ -66,7 +66,7 @@ check.onclick = function() {
 
     console.log(check.checked);
    if (check.checked == false) (
-        baground.style.backgroundImage = 'url(./assets/images/background-light.png)' 
+        baground.style.backgroundImage = 'url(./assets/images/wave whith.avif)' 
    )
    else (
         baground.style.backgroundImage = 'url(./assets/images/wave.png)'
@@ -85,6 +85,18 @@ let massCards = [
     Ccyilka:'31.01.2024',
     isPublick:false,
 },
+{
+     Name:'123',
+     opisanie:'654',
+     Ccyilka:'31.01.2024',
+     isPublick:false,
+ },
+ {
+     Name:'fjtef',
+     opisanie:'krlddf',
+     Ccyilka:'31.01.2024',
+     isPublick:false,
+ },
 
 ];
 let a = "Babuin"

@@ -1,7 +1,6 @@
 * {
   margin: 0;
   padding: 0;
-  /* box-sizing: border-box; */
 }
 
 :root {
@@ -100,7 +99,7 @@ button:active {
 }
 
 body {
-  background-image: url("../images/background-light.png");
+  background-image: url("../images/wave whith.avif");
   /* убрать повторения */
   background-repeat: no-repeat;
   /* масштабирование картинки */
